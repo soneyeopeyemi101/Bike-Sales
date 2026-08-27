@@ -28,6 +28,7 @@ The dataset contains 113,036 records and 19 columns, including:
 
       Date | Customer Age | Age Group | Gender | Country | State | Product Category | Sub-Category | Product | Order Quantity | Unit Cost | Unit Price | Profit | Cost | Revenue|
       Additional fields such as Day, Month, Year, and Profit Margin were used for analysis.
+![Dataset Screenshot](Bikesalesdataset.png)
 
 ### 🔄 Project Workflow
 
@@ -47,6 +48,7 @@ Built an Excel dashboard containing KPIs, charts, and slicers that allow users t
 | Total Revenue|	$85.27M      |
 | Total Profit |	$32.22M      |
 | Total Cost   |	$53.05M      |
+| Total Order  |  113036       |
 | Units Sold   |	1.35M        |
 | Profit Margin|	37.79%       |
 
@@ -60,6 +62,10 @@ Built an Excel dashboard containing KPIs, charts, and slicers that allow users t
 + 📍 California was the strongest U.S. state, generating approximately $17.67M.
 + ⚖️ Revenue was relatively balanced by gender: Male $43.34M vs Female $41.94M.
 + 🏆 Products such as Road-150 and Mountain-200 were among the strongest individual performers.
+
+### Dashboard Visualization
+
+![Dashboard Screenshot](Bikesales.png)
 
 ### 💡 Business Recommendations
 
@@ -77,8 +83,8 @@ It showcases how I can use Excel to transform a large sales dataset into an inte
 
 ### 👤 Author
 
-Opeyemi
-Data Analyst | Excel | SQL | Power BI
+#### Opeyemi S.
++ Data Analyst | Excel | SQL | Power BI
 
 
 
