@@ -67,6 +67,10 @@ Built an Excel dashboard containing KPIs, charts, and slicers that allow users t
 
 ![Dashboard Screenshot](Bikesales.png)
 
+### Project Download
+
+[⬇️ Click here to Download the Bike Sales Project](https://github.com/soneyeopeyemi101/Bike-Sales-Analysis/raw/main/Bike-Sales-Analysis.xlsx)
+
 ### 💡 Business Recommendations
 
 + Prioritize high-performing Road and Mountain Bike products.
