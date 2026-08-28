@@ -87,7 +87,7 @@ It showcases how I can use Excel to transform a large sales dataset into an inte
 
 ### 👤 Author
 
-#### Opeyemi S.
+#### Opeyemi
 + Data Analyst | Excel | SQL | Power BI
 
 
