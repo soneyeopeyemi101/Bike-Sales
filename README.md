@@ -28,7 +28,7 @@ The dataset contains 113,036 records and 19 columns, including:
 
       Date | Customer Age | Age Group | Gender | Country | State | Product Category | Sub-Category | Product | Order Quantity | Unit Cost | Unit Price | Profit | Cost | Revenue|
       Additional fields such as Day, Month, Year, and Profit Margin were used for analysis.
-![Dataset Screenshot](Bikesalesdataset.png)
+![Bike Sales Dataset](Bikesalesdataset.png)
 
 ### 🔄 Project Workflow
 
